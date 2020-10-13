@@ -402,7 +402,7 @@ html, body {
     top: 150px;
     left: 0px;
     z-index: 999;
-    opacity: 0;
+    opacity: .7;
     transition: opacity 0.25s ease-in-out, left 0.25s ease-in-out;
     -moz-transition: opacity 0.25s ease-in-out, left 0.25s ease-in-out;
     -webkit-transition: opacity 0.25s ease-in-out, left 0.25s ease-in-out;
@@ -577,6 +577,7 @@ html, body {
     margin-top: 20px;
     color: darkgreen;
     font-weight: lighter;
+    font-size: 1.5vw;
     letter-spacing: 2px;
     max-height: 0;
     opacity: .5;
