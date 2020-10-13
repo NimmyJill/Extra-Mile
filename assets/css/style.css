@@ -65,6 +65,13 @@ h4 {
     font-size: 30px;
 }
 
+.std{
+    padding-left: 3vw;
+    color: purple;
+    font-weight: 10vw;
+    border: 3px double purple;
+}
+
 /* Buttons */ 
 .btn {
     min-width: 145px;
